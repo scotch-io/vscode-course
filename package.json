@@ -1,0 +1,27 @@
+{
+  "name": "vscode-course",
+  "version": "1.0.0",
+  "description": "Code for the Scotch School course by @chrisoncode",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "express": "^4.14.1"    
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotch-io/vscode-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scotch-io/vscode-course/issues"
+  },
+  "homepage": "https://github.com/scotch-io/vscode-course#readme"
+}
